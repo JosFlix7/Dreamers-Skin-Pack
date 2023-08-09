@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Dreamers",
+        "uuid": "c19e65aa-7b22-4637-9b63-8ad63622ef21",
+        "version": [ 1, 0, 0 ]
+        },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "d0823c95-37e8-4ade-8663-6cd39896fac5",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}

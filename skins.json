@@ -1,0 +1,126 @@
+{
+  "skins": [
+    {
+      "localization_name": "JosFlix7",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Sueter",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Sueter.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Traje",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Traje.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Fake",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Fake.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Girl",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "JosFlix7_Girl.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Legacy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Legacy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "JosFlix7_Legacy2",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Legacy2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "KeyDream",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "KeyDream.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "KeyDream_Traje",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "KeyDream_Traje.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "FraJul11",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FraJul11.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Danny_Phantom",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Danny_Phantom.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Rikka_Takanashi",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Rikka_Takanashi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Yuuta_Togashi",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Yuuta_Togashi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Shiro",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Shiro.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sora",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sora.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Jonesy",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Jonesy.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sans",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Sans.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Ricardo_Milos",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Ricardo_Milos.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Batman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Batman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Baroque_Virus",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Baroque_Virus.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "Dreamers",
+  "localization_name": "Dreamers"
+}
