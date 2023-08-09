@@ -150,6 +150,12 @@
       "texture": "Quackity.png",
       "type": "free"
     }
+	{
+      "localization_name": "Earth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Earth.png",
+      "type": "free"
+    }
   ],
   "serialize_name": "Dreamers",
   "localization_name": "Dreamers"

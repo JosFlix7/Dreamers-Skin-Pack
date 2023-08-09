@@ -15,3 +15,6 @@ Dreamers 1.1.0:
 	- "Quackity"
   - Corregido un error con la skin "JosFlix7 Fake": Habían pixeles transparentes en la capa exterior de la cabeza que se interpretaban como pixeles sólidos in-game (Java vanilla & Bedrock).
   - Eliminado el patrón de pixeles en los guantes de "JosFlix7 Girl" debido a inconsitencia del mismo en el formato de cuerpo Slim.
+
+Dreamers 1.1.1:
+  - Añadida skin de Minecraft Earth (Remade for Java).
