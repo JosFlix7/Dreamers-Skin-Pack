@@ -24,10 +24,22 @@
       "texture": "JosFlix7_Fake.png",
       "type": "free"
     },
+	{
+      "localization_name": "JosFlix7_SinChaleco",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_SinChaleco.png",
+      "type": "free"
+    },
     {
       "localization_name": "JosFlix7_Girl",
       "geometry": "geometry.humanoid.customSlim",
       "texture": "JosFlix7_Girl.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "JosFlix7_Girl_SinChaleco",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "JosFlix7_Girl_SinChaleco.png",
       "type": "free"
     },
     {
@@ -118,6 +130,24 @@
       "localization_name": "Baroque_Virus",
       "geometry": "geometry.humanoid.custom",
       "texture": "Baroque_Virus.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "ClawdeenWolf",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "ClawdeenWolf.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "FrankieStein",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "FrankieStein.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Quackity",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Quackity.png",
       "type": "free"
     }
   ],
