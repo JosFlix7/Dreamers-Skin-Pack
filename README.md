@@ -18,3 +18,12 @@ Dreamers 1.1.0:
 
 Dreamers 1.1.1:
   - Añadida skin de Minecraft Earth (Remade for Java).
+
+Dreamers 1.2:
+  - Corregido un error de pixeles transparentes en la capa externa de todas las skins de JosFlix7.
+  - Añadida JosFlix7 Girl (Fake).
+  - Skin KeyDream actualizada.
+  - Adición de skins solicitadas por KeyPzk:
+    - Shrek desnudo
+	- Shrek loli
+  - Skins de KeyDream ahora tienen su nombre de java: KeyPzk.

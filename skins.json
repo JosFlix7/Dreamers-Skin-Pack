@@ -42,6 +42,12 @@
       "texture": "JosFlix7_Girl_SinChaleco.png",
       "type": "free"
     },
+	{
+      "localization_name": "JosFlix7_Girl_Fake",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "JosFlix7_Girl_Fake.png",
+      "type": "free"
+    },
     {
       "localization_name": "JosFlix7_Legacy",
       "geometry": "geometry.humanoid.custom",
@@ -76,6 +82,12 @@
       "localization_name": "Danny_Phantom",
       "geometry": "geometry.humanoid.custom",
       "texture": "Danny_Phantom.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Earth",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Earth.png",
       "type": "free"
     },
     {
@@ -149,11 +161,17 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "Quackity.png",
       "type": "free"
-    }
+    },
 	{
-      "localization_name": "Earth",
+      "localization_name": "Shrek_Desnudo",
       "geometry": "geometry.humanoid.custom",
-      "texture": "Earth.png",
+      "texture": "Shrek_Desnudo.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "Shrek_Loli",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Shrek_Loli.png",
       "type": "free"
     }
   ],
