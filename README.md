@@ -27,3 +27,8 @@ Dreamers 1.2:
     - Shrek desnudo
 	- Shrek loli
   - Skins de KeyDream ahora tienen su nombre de java: KeyPzk.
+
+Dreamers 1.2.1:
+  - Añadida skin JosFlix7 (2016), la skin no estaba configurada.
+  - Renombrado "JosFlix7_Old.png" a "JosFlix7_2016.png".
+  - Renombrado "KeyDream.png" y "KeyDream_Traje.png" a "KeyPzk.png" y "KeyPzk_Traje.png"

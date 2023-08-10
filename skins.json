@@ -48,6 +48,12 @@
       "texture": "JosFlix7_Girl_Fake.png",
       "type": "free"
     },
+	{
+      "localization_name": "JosFlix7_2016",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_2016.png",
+      "type": "free"
+    },
     {
       "localization_name": "JosFlix7_Legacy",
       "geometry": "geometry.humanoid.custom",
@@ -61,15 +67,15 @@
       "type": "free"
     },
     {
-      "localization_name": "KeyDream",
+      "localization_name": "KeyPzk",
       "geometry": "geometry.humanoid.custom",
-      "texture": "KeyDream.png",
+      "texture": "KeyPzk.png",
       "type": "free"
     },
     {
-      "localization_name": "KeyDream_Traje",
+      "localization_name": "KeyPzk_Traje",
       "geometry": "geometry.humanoid.custom",
-      "texture": "KeyDream_Traje.png",
+      "texture": "KeyPzk_Traje.png",
       "type": "free"
     },
     {
