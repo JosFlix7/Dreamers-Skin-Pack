@@ -3,7 +3,13 @@
     {
       "localization_name": "JosFlix7",
       "geometry": "geometry.humanoid.custom",
-      "texture": "JosFlix7.png",
+      "texture": "JosFlix7_Dec2024.png",
+      "type": "free"
+    },
+	{
+      "localization_name": "JosFlix7_Jan2022",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "JosFlix7_Jan2022.png",
       "type": "free"
     },
     {

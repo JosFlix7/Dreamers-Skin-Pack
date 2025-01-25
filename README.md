@@ -32,3 +32,7 @@
   - Añadida skin JosFlix7 (2016), la skin no estaba configurada.
   - Renombrado "JosFlix7_Old.png" a "JosFlix7_2016.png".
   - Renombrado "KeyDream.png" y "KeyDream_Traje.png" a "KeyPzk.png" y "KeyPzk_Traje.png"
+
+## Dreamers 1.2.2:
+  - "JosFlix7" Renombrado a "JosFlix7 (Jan. 2022)"
+  - Añadida skin JosFlix7 (Dec. 2024)
