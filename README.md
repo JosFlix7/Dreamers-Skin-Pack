@@ -36,3 +36,7 @@
 ## Dreamers 1.2.2:
   - "JosFlix7" Renombrado a "JosFlix7 (Jan. 2022)"
   - Añadida skin JosFlix7 (Dec. 2024)
+
+## Dreamers 1.2.3:
+  - Arreglos menores a JosFlix7 (Dec. 2024) y pasa a nombrarse "JosFlix7 (2025)"
+  - Eliminadas algunas skins extras

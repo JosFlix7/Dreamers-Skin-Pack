@@ -3,7 +3,7 @@
     {
       "localization_name": "JosFlix7",
       "geometry": "geometry.humanoid.custom",
-      "texture": "JosFlix7_Dec2024.png",
+      "texture": "JosFlix7_July2025.png",
       "type": "free"
     },
 	{
@@ -124,66 +124,6 @@
       "localization_name": "Sora",
       "geometry": "geometry.humanoid.custom",
       "texture": "Sora.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Jonesy",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Jonesy.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Sans",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Sans.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Ricardo_Milos",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Ricardo_Milos.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Batman",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Batman.png",
-      "type": "free"
-    },
-    {
-      "localization_name": "Baroque_Virus",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Baroque_Virus.png",
-      "type": "free"
-    },
-	{
-      "localization_name": "ClawdeenWolf",
-      "geometry": "geometry.humanoid.customSlim",
-      "texture": "ClawdeenWolf.png",
-      "type": "free"
-    },
-	{
-      "localization_name": "FrankieStein",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "FrankieStein.png",
-      "type": "free"
-    },
-	{
-      "localization_name": "Quackity",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Quackity.png",
-      "type": "free"
-    },
-	{
-      "localization_name": "Shrek_Desnudo",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Shrek_Desnudo.png",
-      "type": "free"
-    },
-	{
-      "localization_name": "Shrek_Loli",
-      "geometry": "geometry.humanoid.custom",
-      "texture": "Shrek_Loli.png",
       "type": "free"
     }
   ],
